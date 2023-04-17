@@ -71,6 +71,7 @@
         "drupal/paragraphs_features": "^2.0@beta",
         "drupal/paragraphs_frontend_ui": "dev-3288987-automated-drupal-10",
         "drupal/pathauto": "^1.11",
+        "drupal/profile_switcher": "^1.0@alpha",
         "drupal/pwa": "dev-3289196-automated-drupal-10",
         "drupal/quickedit": "^1.0",
         "drupal/recaptcha": "^3.1",

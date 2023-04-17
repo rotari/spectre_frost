@@ -9,9 +9,6 @@ dependencies:
     - system
   theme:
     - classy
-third_party_settings:
-  block_class:
-    classes: null
 _core:
   default_config_hash: r_SgCEOmUTMH7X1kNZpGOIg64yqIqnRlJgKRMN6-atU
 id: classy_footermain

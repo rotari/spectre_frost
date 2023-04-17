@@ -7,9 +7,6 @@ dependencies:
     - system
   theme:
     - classy
-third_party_settings:
-  block_class:
-    classes: null
 _core:
   default_config_hash: zPWwUl3oWneAU0CQbFj5U0lLGRcDlSBQVh2M_yvZvr8
 id: classy_breadcrumbs

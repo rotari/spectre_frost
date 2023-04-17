@@ -6,9 +6,6 @@ dependencies:
     - block_class
   theme:
     - stable
-third_party_settings:
-  block_class:
-    classes: null
 _core:
   default_config_hash: ruq6QIz2wYtbO8ihQThxI-Sj5nluB9Bb013o2dZUlWU
 id: stable_alerts

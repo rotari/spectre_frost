@@ -6,9 +6,6 @@ dependencies:
     - system
   theme:
     - frost_theme
-third_party_settings:
-  block_class:
-    classes: null
 _core:
   default_config_hash: jhQJmPMWb1fND9Jl2U86YMTHmMM1d8WwHfS1gbLQvL0
 id: frost_theme_messages

@@ -6,8 +6,8 @@ _core:
   default_config_hash: 96QBs29w24JHakk_9dsn2sWumVEmXfC5wAK2rJ9P3z4
 id: video
 label: 'Remote video'
+description: 'oEmbed providers for the remote_video media type specifically'
 providers:
   - TikTok
   - Vimeo
   - YouTube
-description: 'oEmbed providers for the remote_video media type specifically'

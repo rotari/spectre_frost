@@ -12,9 +12,9 @@ third_party_settings:
     taxable_type: digital_goods
 _core:
   default_config_hash: N9GA0gIDn3HdrORPc-IgNrqzPabSTI_BzWAk-Uf-I8s
-label: Default
 id: default
-purchasableEntityType: commerce_product_variation
-orderType: default
+label: Default
 traits: {  }
 locked: false
+purchasableEntityType: commerce_product_variation
+orderType: default

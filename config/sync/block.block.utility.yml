@@ -8,9 +8,6 @@ dependencies:
     - system
   theme:
     - frost_theme
-third_party_settings:
-  block_class:
-    classes: null
 _core:
   default_config_hash: C0c6e3gcZ9ttUpxrlpmBdb3slhrNiJmF2C3J8DMu3fM
 id: utility

@@ -4,9 +4,6 @@ status: true
 dependencies:
   theme:
     - claro
-third_party_settings:
-  block_class:
-    classes: null
 _core:
   default_config_hash: fNwDdW063tk_ktzSWzZVeQS9wzvLooVO280BQ9WrsIs
 id: claro_page_title

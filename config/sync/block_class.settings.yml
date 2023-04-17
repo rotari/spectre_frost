@@ -4,7 +4,7 @@ maxlength_block_class_field: 255
 field_type: multiple_textfields
 default_case: standard
 allow_only_letters_and_numbers: false
-block_classes_stored: '{"":""}'
+block_classes_stored: '{"":"","margin-top--40px":"margin-top--40px","margin-vertical--2":"margin-vertical--2","margin-vertical--4":"margin-vertical--4","text-align--center":"text-align--center","pipe-spaced":"pipe-spaced"}'
 enable_attributes: true
 enable_auto_complete: true
 qty_classes_per_block: 10
@@ -15,3 +15,6 @@ enable_id_replacement: true
 weight_attributes: null
 weight_class: null
 weight_id: null
+attribute_keys_stored: '[]'
+attribute_value_stored: '[]'
+attributes_inline: '[]'

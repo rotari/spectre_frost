@@ -21,6 +21,7 @@ default_value: {  }
 default_value_callback: ''
 settings:
   title: ''
+  headerlevel: null
   class: ''
   frameborder: '0'
   scrolling: auto
@@ -29,5 +30,4 @@ settings:
   tokensupport: '0'
   width: ''
   height: ''
-  headerlevel: null
 field_type: iframe

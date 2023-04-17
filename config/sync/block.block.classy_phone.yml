@@ -7,9 +7,6 @@ dependencies:
     - contact_info
   theme:
     - classy
-third_party_settings:
-  block_class:
-    classes: null
 _core:
   default_config_hash: to9a3uraRuVZ5ymzHX5W1e9dauvuG_NlHmgHMJ6ZUVM
 id: classy_phone

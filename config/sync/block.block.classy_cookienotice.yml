@@ -7,9 +7,6 @@ dependencies:
     - frost_custom
   theme:
     - classy
-third_party_settings:
-  block_class:
-    classes: null
 _core:
   default_config_hash: qONTqbCSvf6opycCTWPa-gWCJhGROqIYV5A9GXCROi4
 id: classy_cookienotice

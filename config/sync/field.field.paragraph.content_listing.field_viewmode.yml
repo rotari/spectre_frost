@@ -26,5 +26,5 @@ settings:
     decorated: decorated
     small: small
     teaser: teaser
-  negate: 1
+  negate: true
 field_type: entity_reference_display

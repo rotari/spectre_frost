@@ -7,8 +7,8 @@ dependencies:
     - commerce_shipping
 _core:
   default_config_hash: qIytWtCykmCdcPkPIvTfS7jz2mveXcgLIebyvzzDesw
-id: shipping
 label: Shipping
+id: shipping
 plugin: multistep_default
 configuration:
   display_checkout_progress: true

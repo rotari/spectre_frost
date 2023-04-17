@@ -7,9 +7,6 @@ dependencies:
     - system
   theme:
     - classy
-third_party_settings:
-  block_class:
-    classes: null
 _core:
   default_config_hash: jhQJmPMWb1fND9Jl2U86YMTHmMM1d8WwHfS1gbLQvL0
 id: classy_messages

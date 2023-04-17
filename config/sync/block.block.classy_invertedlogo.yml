@@ -7,9 +7,6 @@ dependencies:
     - frost_custom
   theme:
     - classy
-third_party_settings:
-  block_class:
-    classes: null
 _core:
   default_config_hash: 6Y_S_bITYSToTGQH5Xwz3UWYAtqNDxkMleGanNTA9R4
 id: classy_invertedlogo

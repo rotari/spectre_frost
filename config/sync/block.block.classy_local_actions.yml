@@ -6,9 +6,6 @@ dependencies:
     - block_class
   theme:
     - classy
-third_party_settings:
-  block_class:
-    classes: null
 _core:
   default_config_hash: Qsb7masrzji4kDrH8-zUCtBIQnK0hsrlrvFihpItgYA
 id: classy_local_actions

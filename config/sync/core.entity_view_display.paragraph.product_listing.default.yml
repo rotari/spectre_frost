@@ -21,9 +21,9 @@ content:
     type: entity_reference_display_default
     label: hidden
     settings:
-      display_field: ''
       view_mode: default
       link: false
+      display_field: ''
     third_party_settings:
       field_formatter_class:
         class: ''

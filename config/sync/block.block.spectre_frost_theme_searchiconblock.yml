@@ -1,0 +1,22 @@
+uuid: 0f0af99d-7ca2-4957-8507-91cb3568cc47
+langcode: en
+status: true
+dependencies:
+  module:
+    - frost_custom
+  theme:
+    - spectre_frost_theme
+_core:
+  default_config_hash: HAePoWVFX7zPoRhyOOHeQfZf6J2GFZOtPKHx35crgnM
+id: spectre_frost_theme_searchiconblock
+theme: spectre_frost_theme
+region: nav
+weight: -7
+provider: null
+plugin: search_icon_block
+settings:
+  id: search_icon_block
+  label: 'Search Icon Block'
+  label_display: '0'
+  provider: frost_custom
+visibility: {  }

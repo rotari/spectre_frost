@@ -59,6 +59,7 @@ module:
   filter: 0
   form_mode_manager: 0
   frost_custom: 0
+  frost_default_content: 0
   honeypot: 0
   human_decimal: 0
   iframe: 0
@@ -138,10 +139,10 @@ module:
   views: 10
   paragraphs: 11
   linked_field: 100
-  standard: 1000
 theme:
   stable: 0
   claro: 0
   frost_theme: 0
   classy: 0
+  spectre_frost_theme: 0
 profile: standard

@@ -1,7 +1,7 @@
 _core:
   default_config_hash: MTd8aG6rfsbJcpk48uT36H3Eljj3YIFXgcnVsorMkxA
 langcode: en
-uuid: ddf7deb3-4296-49da-8c99-ecf1a37b41e5
+uuid: f01e4716-95ca-4d55-90a6-50286d173bd8
 name: Frost
 mail: brad@solveitonce.com
 slogan: 'Atomic Drupal 9 install profile'

@@ -1,0 +1,22 @@
+uuid: a62e37da-28d2-4668-9c99-406d8720bbd9
+langcode: en
+status: true
+dependencies:
+  module:
+    - frost_custom
+  theme:
+    - spectre_frost_theme
+_core:
+  default_config_hash: qONTqbCSvf6opycCTWPa-gWCJhGROqIYV5A9GXCROi4
+id: spectre_frost_theme_cookienotice
+theme: spectre_frost_theme
+region: post_footer
+weight: 0
+provider: null
+plugin: cookie_block
+settings:
+  id: cookie_block
+  label: 'Cookie notice'
+  label_display: '0'
+  provider: frost_custom
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: dffa9849-0289-48c7-83e9-53a2879f1233
+langcode: en
+status: true
+dependencies:
+  module:
+    - frost_custom
+  theme:
+    - spectre_frost_theme
+_core:
+  default_config_hash: 6Y_S_bITYSToTGQH5Xwz3UWYAtqNDxkMleGanNTA9R4
+id: spectre_frost_theme_invertedlogo
+theme: spectre_frost_theme
+region: footer
+weight: -9
+provider: null
+plugin: inverted_logo_block
+settings:
+  id: inverted_logo_block
+  label: 'Inverted Logo'
+  label_display: '0'
+  provider: frost_custom
+visibility: {  }
